@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/161186806836435407/1be92bdfc1db4822ae90abab3bd048ac/artifacts
+deleted_time: 1685189329689
+end_time: null
+entry_point_name: ''
+experiment_id: '161186806836435407'
+lifecycle_stage: deleted
+run_id: 1be92bdfc1db4822ae90abab3bd048ac
+run_name: righteous-colt-261
+run_uuid: 1be92bdfc1db4822ae90abab3bd048ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685189024795
+status: 1
+tags: []
+user_id: meriem
