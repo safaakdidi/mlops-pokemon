@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/161186806836435407
-creation_time: 1685185375363
-experiment_id: '161186806836435407'
-last_update_time: 1685185375363
-lifecycle_stage: active
-name: PokemonClassification
